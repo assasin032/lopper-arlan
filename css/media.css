@@ -1,0 +1,31 @@
+@media screen and (max-width:1024px) {
+
+    .container{
+        padding: 0 20px;
+    }
+
+    .menu{
+        display: none;
+    }
+    .col-4 .col-6{
+        width: 100%;
+    }
+    .wedo-item{
+        padding-bottom: 50px;
+    } 
+.slider__description {
+    font-family: Noticia Text;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 64px;
+    text-align: center;
+    color: #30233d;
+    max-width: 754px;
+    margin: 0 auto;
+  }
+      .slick-next.slick-arrow,
+      .slick-prev.slick-arrow {
+          transform: translate(0,0);
+      }
+    }
